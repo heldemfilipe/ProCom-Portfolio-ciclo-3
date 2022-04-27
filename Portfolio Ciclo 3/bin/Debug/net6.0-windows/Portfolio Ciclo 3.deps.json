@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Portfolio Ciclo 3/1.0.0": {
+        "runtime": {
+          "Portfolio Ciclo 3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Portfolio Ciclo 3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

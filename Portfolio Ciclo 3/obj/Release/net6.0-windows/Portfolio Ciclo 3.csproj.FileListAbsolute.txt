@@ -1,0 +1,17 @@
+C:\Users\helde\Downloads\facul\Portfolio Ciclo 3\Portfolio Ciclo 3\bin\Release\net6.0-windows\Portfolio Ciclo 3.exe
+C:\Users\helde\Downloads\facul\Portfolio Ciclo 3\Portfolio Ciclo 3\bin\Release\net6.0-windows\Portfolio Ciclo 3.deps.json
+C:\Users\helde\Downloads\facul\Portfolio Ciclo 3\Portfolio Ciclo 3\bin\Release\net6.0-windows\Portfolio Ciclo 3.runtimeconfig.json
+C:\Users\helde\Downloads\facul\Portfolio Ciclo 3\Portfolio Ciclo 3\bin\Release\net6.0-windows\Portfolio Ciclo 3.dll
+C:\Users\helde\Downloads\facul\Portfolio Ciclo 3\Portfolio Ciclo 3\bin\Release\net6.0-windows\Portfolio Ciclo 3.pdb
+C:\Users\helde\Downloads\facul\Portfolio Ciclo 3\Portfolio Ciclo 3\obj\Release\net6.0-windows\Portfolio Ciclo 3.csproj.AssemblyReference.cache
+C:\Users\helde\Downloads\facul\Portfolio Ciclo 3\Portfolio Ciclo 3\obj\Release\net6.0-windows\Portfolio_Ciclo_3.Portfolio.resources
+C:\Users\helde\Downloads\facul\Portfolio Ciclo 3\Portfolio Ciclo 3\obj\Release\net6.0-windows\Portfolio Ciclo 3.csproj.GenerateResource.cache
+C:\Users\helde\Downloads\facul\Portfolio Ciclo 3\Portfolio Ciclo 3\obj\Release\net6.0-windows\Portfolio Ciclo 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\helde\Downloads\facul\Portfolio Ciclo 3\Portfolio Ciclo 3\obj\Release\net6.0-windows\Portfolio Ciclo 3.AssemblyInfoInputs.cache
+C:\Users\helde\Downloads\facul\Portfolio Ciclo 3\Portfolio Ciclo 3\obj\Release\net6.0-windows\Portfolio Ciclo 3.AssemblyInfo.cs
+C:\Users\helde\Downloads\facul\Portfolio Ciclo 3\Portfolio Ciclo 3\obj\Release\net6.0-windows\Portfolio Ciclo 3.csproj.CoreCompileInputs.cache
+C:\Users\helde\Downloads\facul\Portfolio Ciclo 3\Portfolio Ciclo 3\obj\Release\net6.0-windows\Portfolio Ciclo 3.dll
+C:\Users\helde\Downloads\facul\Portfolio Ciclo 3\Portfolio Ciclo 3\obj\Release\net6.0-windows\refint\Portfolio Ciclo 3.dll
+C:\Users\helde\Downloads\facul\Portfolio Ciclo 3\Portfolio Ciclo 3\obj\Release\net6.0-windows\Portfolio Ciclo 3.pdb
+C:\Users\helde\Downloads\facul\Portfolio Ciclo 3\Portfolio Ciclo 3\obj\Release\net6.0-windows\Portfolio Ciclo 3.genruntimeconfig.cache
+C:\Users\helde\Downloads\facul\Portfolio Ciclo 3\Portfolio Ciclo 3\obj\Release\net6.0-windows\ref\Portfolio Ciclo 3.dll

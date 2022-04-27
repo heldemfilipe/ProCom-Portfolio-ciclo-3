@@ -1,0 +1,5 @@
+C:\Users\helde\Downloads\Portfolio Ciclo 3.exe
+C:\Users\helde\Downloads\Portfolio Ciclo 3.dll
+C:\Users\helde\Downloads\Portfolio Ciclo 3.deps.json
+C:\Users\helde\Downloads\Portfolio Ciclo 3.runtimeconfig.json
+C:\Users\helde\Downloads\Portfolio Ciclo 3.pdb
